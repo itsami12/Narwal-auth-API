@@ -24,3 +24,27 @@ To set up the Narwhal Authentication API, follow these steps:
    ```bash
    git clone https://github.com/yourusername/narwhal-auth-api.git
    cd narwhal-auth-api
+2. **Dependencies**
+
+      ```bash
+      install npm
+      npm install bn.js
+      npm install python-shell
+      npm install mongoose-sequence
+      npm install mongoose
+      npm install multer
+      npm install cors
+      npm install -g nodemon
+      npm install express
+      npm install react-router-dom
+      npm install @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+      npm install axios
+      npm install bootstrap
+      npm install react-bootstrap
+      npm install react
+      npm install react-dom
+      npm install @vitejs/plugin-react
+      npm install vite
+      npm install vide
+
+   
